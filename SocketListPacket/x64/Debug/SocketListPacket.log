@@ -1,0 +1,27 @@
+﻿  SocketListPacket.cpp
+C:\_2022___\_Rabota__HH__Source__My\SocketListPacket\SocketListPacket\ServerDBrw.h(60,24): warning C4244: аргумент: преобразование "const double" в "const int", возможна потеря данных
+C:\_2022___\_Rabota__HH__Source__My\SocketListPacket\SocketListPacket\ServerDBrw.h(63,14): warning C4244: аргумент: преобразование "const double" в "int", возможна потеря данных
+C:\_2022___\_Rabota__HH__Source__My\SocketListPacket\SocketListPacket\ServerDBrw.h(63,24): warning C4244: =: преобразование "const double" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(190,16): warning C4244: инициализация: преобразование "const double" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+C:\_2022___\_Rabota__HH__Source__My\SocketListPacket\SocketListPacket\ServerDBrw.h(60): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<const double&,const double&,0>(_Other1,_Other2) noexcept"
+          with
+          [
+              _Other1=const double &,
+              _Other2=const double &
+          ]
+C:\_2022___\_Rabota__HH__Source__My\SocketListPacket\SocketListPacket\ServerDBrw.h(60): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<const double&,const double&,0>(_Other1,_Other2) noexcept"
+          with
+          [
+              _Other1=const double &,
+              _Other2=const double &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(190,54): warning C4244: инициализация: преобразование "const double" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+  SocketListPacket.vcxproj -> C:\_2022___\_Rabota__HH__Source__My\SocketListPacket\x64\Debug\SocketListPacket.exe
